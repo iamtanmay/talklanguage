@@ -78,9 +78,9 @@ div {
 .u3 {
     position:absolute;
     left:2px;
-    top:8px;
+    top:10px;
     width:216px;
-    height:33px;
+    height:31px;
     ;
     ;
     ;
@@ -108,9 +108,9 @@ div {
 .u5 {
     position:absolute;
     left:2px;
-    top:8px;
+    top:10px;
     width:216px;
-    height:33px;
+    height:31px;
     ;
     ;
     ;
@@ -138,9 +138,9 @@ div {
 .u7 {
     position:absolute;
     left:2px;
-    top:8px;
+    top:10px;
     width:216px;
-    height:33px;
+    height:31px;
     ;
     ;
     ;
@@ -168,9 +168,9 @@ div {
 .u9 {
     position:absolute;
     left:2px;
-    top:8px;
+    top:10px;
     width:216px;
-    height:33px;
+    height:31px;
     ;
     ;
     ;
@@ -198,9 +198,9 @@ div {
 .u11 {
     position:absolute;
     left:2px;
-    top:8px;
+    top:10px;
     width:216px;
-    height:33px;
+    height:31px;
     ;
     ;
     ;
@@ -252,7 +252,7 @@ div {
     overflow:hidden;
 }
 
-#pd2u14 {
+#pd4u14 {
     position:absolute;
     left:0px;
     top:0px;
@@ -268,7 +268,7 @@ div {
 .u15_container {
     position:absolute;
     left:0px;
-    top:0px;
+    top:11px;
     width:800px;
     height:511px;
 }
@@ -284,9 +284,95 @@ div {
 .u16 {
     position:absolute;
     left:2px;
-    top:1px;
+    top:8px;
     width:796px;
-    height:509px;
+    height:494px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd3u14 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:738px;
+    height:466px;
+    
+}
+
+.u17_normal {
+    background-image: url('../Main_files/u15_normal.png');
+}
+
+.u17_container {
+    position:absolute;
+    left:0px;
+    top:11px;
+    width:800px;
+    height:511px;
+}
+
+#u17_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:806px;
+    height:517px;
+}
+
+.u18 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:796px;
+    height:496px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd2u14 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:738px;
+    height:466px;
+    
+}
+
+.u21_normal {
+    background-image: url('../Main_files/u15_normal.png');
+}
+
+.u21_container {
+    position:absolute;
+    left:0px;
+    top:11px;
+    width:800px;
+    height:511px;
+}
+
+#u21_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:806px;
+    height:517px;
+}
+
+.u22 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:796px;
+    height:496px;
     ;
     ;
     ;
@@ -304,19 +390,19 @@ div {
     
 }
 
-.u17_normal {
+.u25_normal {
     background-image: url('../Main_files/u15_normal.png');
 }
 
-.u17_container {
+.u25_container {
     position:absolute;
     left:0px;
-    top:-38px;
+    top:11px;
     width:800px;
     height:511px;
 }
 
-#u17_img {
+#u25_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -324,12 +410,12 @@ div {
     height:517px;
 }
 
-.u18 {
+.u26 {
     position:absolute;
     left:2px;
-    top:-7px;
+    top:8px;
     width:796px;
-    height:525px;
+    height:496px;
     ;
     ;
     ;
@@ -347,19 +433,19 @@ div {
     
 }
 
-.u19_normal {
+.u31_normal {
     background-image: url('../Main_files/u15_normal.png');
 }
 
-.u19_container {
+.u31_container {
     position:absolute;
     left:0px;
-    top:0px;
+    top:11px;
     width:800px;
     height:511px;
 }
 
-#u19_img {
+#u31_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -367,12 +453,12 @@ div {
     height:517px;
 }
 
-.u20 {
+.u32 {
     position:absolute;
     left:2px;
-    top:-8px;
+    top:0px;
     width:796px;
-    height:527px;
+    height:512px;
     ;
     ;
     ;
@@ -381,7 +467,7 @@ div {
     word-wrap:break-word;
 }
 
-.u22_container {
+.u34_container {
     position:absolute;
     left:148px;
     top:270px;
@@ -389,7 +475,7 @@ div {
     height:50px;
 }
 
-#u22_img {
+#u34_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -397,12 +483,12 @@ div {
     height:50px;
 }
 
-.u23 {
+.u35 {
     position:absolute;
     left:2px;
-    top:8px;
+    top:10px;
     width:216px;
-    height:33px;
+    height:31px;
     ;
     ;
     ;

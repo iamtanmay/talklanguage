@@ -13,7 +13,17 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Main_files/u15_normal.png");
 }
 
-* html .u19_normal {
+* html .u21_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Main_files/u15_normal.png");
+}
+
+* html .u25_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Main_files/u15_normal.png");
+}
+
+* html .u31_normal {
     background-image: none;
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Main_files/u15_normal.png");
 }
